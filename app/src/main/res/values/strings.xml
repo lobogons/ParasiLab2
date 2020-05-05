@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">ParasiLab</string>
+    <string name="tab_text_1">TEORIA</string>
+    <string name="tab_text_2">JUEGOS</string>
+
+    <string name="ayuda">Ayuda</string>
+    <string name="compartir">Compartir</string>
+    <string name="cerrarSesion">Cerrar Sesión</string>
+
+    <string name="drawerOpen">drawerOpen</string>
+    <string name="drawerClose">drawerClose</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">salvador.qfb@gmail.com</string>
+    <string name="juegos">Podrás poner en practica lo
+aprendido de una manera divertida</string>
+
+    <string name="texto">Los parásitos intestinales viven en los intestinos.\n\nLos parásitos intestinales son generalmente
+protozoos (como Giardia) o gusanos (como
+oxiúridos o tenias) que ingresan al cuerpo de su
+niño y usan el intestino como refugio. El parásito
+vive en el intestino u otras partes del cuerpo y
+suele reproducirse, pudiendo causar síntomas o
+infección.\n\nLos parásitos son muy comunes en todo el
+mundo; las infecciones parasitarias se transmiten
+en lugares concurridos como las guarderías.
+Asimismo, los niños de los países en desarrollo
+generalmente portan algún tipo de parásito.\n\n
+
+    Los parásitos intestinales viven en los intestinos.\n\nLos parásitos intestinales son generalmente
+protozoos (como Giardia) o gusanos (como
+oxiúridos o tenias) que ingresan al cuerpo de su
+niño y usan el intestino como refugio. El parásito
+vive en el intestino u otras partes del cuerpo y
+suele reproducirse, pudiendo causar síntomas o
+infección.\n\nLos parásitos son muy comunes en todo el
+mundo; las infecciones parasitarias se transmiten
+en lugares concurridos como las guarderías.
+Asimismo, los niños de los países en desarrollo
+generalmente portan algún tipo de parásito.</string>
+</resources>
